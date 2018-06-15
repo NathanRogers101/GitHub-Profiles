@@ -10,6 +10,6 @@
 * [Britney Hu](https://github.com/britneyhu0121)
 * [Kyle Munoz]()
 * [Daniel Reilly]()
-* [Nathan Rogers]()
+* [Nathan Rogers](https://github.com/NathanRogers101)
 * [Reiley Rollins]()
 * [Fernando Sanchez]()
